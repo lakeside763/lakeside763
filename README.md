@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm a Full-stack engineer with over 7 years of professional experience working on enterprise and startup projects. I'm passionate about building high-quality software.
+
+
 <!--
 **lakeside763/lakeside763** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
