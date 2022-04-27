@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Full-stack engineer with over 7 years of professional experience working on enterprise and startup projects. 
+I'm a Full-stack engineer with over 7 years of professional experience working on enterprise and startup projects. <br />
 I'm passionate about building high-quality software.
 
 
