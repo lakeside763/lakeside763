@@ -4,6 +4,7 @@ I'm a Full-stack engineer with over 7 years of professional experience working o
 I'm passionate about building high-quality software.
 
 #### 🔭 My Technical Skills ...
+<div style="font-size: 12px">
 ● Languages: JavaScript, Typescript, etc. <br />
 ●Technologies: NodeJS, AWS Lambda, GraphQL, Jest, Redis, Apollo Server, React, NextJs, <br />
   Apollo Client, Redux, Redux-Saga, React-testing-library, Prisma, Sequelize, DB-migrate, etc. <br />
@@ -13,6 +14,10 @@ I'm passionate about building high-quality software.
 ● DevOps Tools: Kubernetes, Docker, CircleCI. Github, <br />
 ● Microservices: gRPC, Kafka, <br />
 ● Other Languages: C#, PHP <br />
+</div>
+
+#### Portfolio
+
 <!--
 **lakeside763/lakeside763** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
