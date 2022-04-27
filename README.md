@@ -3,16 +3,16 @@
 I'm a Full-stack engineer with over 7 years of professional experience working on enterprise and startup projects. <br />
 I'm passionate about building high-quality software.
 
-### 🔭 My Technical Skills ...
-● Languages: JavaScript, Typescript, etc.
-●Technologies: NodeJS, AWS Lambda, GraphQL, Jest, Redis, Apollo Server, React, NextJs,
-  Apollo Client, Redux, Redux-Saga, React-testing-library, Prisma, Sequelize, DB-migrate, etc.
-● NoSQL Database: MongoDB, Firebase, DynamoDB etc.
-● SQL Database: PostgreSQL, MySQL, MariaDB, SQLite, etc.
-● Cloud Computing Services: Google Cloud Platform, Amazon Web Services, Heroku, etc.
-● DevOps Tools: Kubernetes, Docker, CircleCI. Github,
-● Microservices: gRPC, Kafka,
-● Other Languages: C#, PHP
+#### 🔭 My Technical Skills ...
+● Languages: JavaScript, Typescript, etc. <br />
+●Technologies: NodeJS, AWS Lambda, GraphQL, Jest, Redis, Apollo Server, React, NextJs, <br />
+  Apollo Client, Redux, Redux-Saga, React-testing-library, Prisma, Sequelize, DB-migrate, etc. <br />
+● NoSQL Database: MongoDB, Firebase, DynamoDB etc. <br />
+● SQL Database: PostgreSQL, MySQL, MariaDB, SQLite, etc. <br />
+● Cloud Computing Services: Google Cloud Platform, Amazon Web Services, Heroku, etc. <br />
+● DevOps Tools: Kubernetes, Docker, CircleCI. Github, <br />
+● Microservices: gRPC, Kafka, <br />
+● Other Languages: C#, PHP <br />
 <!--
 **lakeside763/lakeside763** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
