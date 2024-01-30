@@ -1,18 +1,48 @@
 ### Hi there 👋
 
-I'm a Full-stack engineer with over 7 years of professional experience working on enterprise and startup projects. <br />
-I'm passionate about building high-quality software.
+I have over 8 years of hands-on experience as a senior software engineer specializing in Javascript, Node.js, Amazon Services, and DevOps engineering in building low-latency, secure, reliable, and large-scale distributed systems.
+<br /><br />
 
-#### 🔭 My Technical Skills ...
-● Languages: JavaScript, Typescript, etc. <br />
-●Technologies: NodeJS, AWS Lambda, GraphQL, Jest, Redis, Apollo Server, React, NextJs, <br />
-  Apollo Client, Redux, Redux-Saga, React-testing-library, Prisma, Sequelize, DB-migrate, etc. <br />
-● NoSQL Database: MongoDB, Firebase, DynamoDB etc. <br />
-● SQL Database: PostgreSQL, MySQL, MariaDB, SQLite, etc. <br />
-● Cloud Computing Services: Google Cloud Platform, Amazon Web Services, Heroku, etc. <br />
-● DevOps Tools: Kubernetes, Docker, CircleCI. Github, <br />
-● Microservices: gRPC, Kafka, <br />
-● Other Languages: C#, PHP <br />
+8+ years of total experience in software development.<br />
+4+ years experience in launching startups from scratch.<br />
+7+ years of experience working with Javascript.<br />
+3+ years experience in the solutions architect role.<br />
+5+ years experience with NodeJs.<br />
+3+ years experience with ReactJs.<br />
+3+ years of experience with AWS Serverless Technology, including AWS Lambda, Eventbridge, API Gateway, etc.<br />
+3+ years of experience working with AWS Cloud Infrastructure, covering EKS, EC2, ECR, ECS, Cloudformation, Route53, SQS, SNS, DynamoDB, RDS, etc.<br />
+6+ years of experience working with various relational databases (MySQL, PostgreSQL), including 4   years with NoSQL databases (MongoDB, DynamoDB, Firebase, etc.).<br />
+3+ years of experience in DevOps engineering, covering cloud infrastructure setup, management, application deployment, and CI/CD.<br />
+4+ years experience in leading a software project(4 members) utilizing agile methodology.<br /><br />
+
+My extensive experience in working with enterprise solutions, leading teams, and working with diverse technologies positions me as a valuable asset to drive innovation and contribute at a large scale.
+
+
+#### 🔭 My Technical Skills & Tools ...
+• Programming Languages: <br />
+  JavaScript, Typescript etc. <br /><br />
+
+• Web Technologies and Frameworks: <br />
+  NodeJs, Apollo Server & Client, React & NextJs, etc. <br /><br />
+
+• Middleware & Libraries: <br />
+  Graphql, Jest, Redis, Redux & Redux-Saga, React-testing-library, Prisma & Sequelize,  
+  DB-migrate, etc. <br /><br />
+
+• NoSQL Databases: <br />
+  MongoDB, Firebase, DynamoDB, etc. <br /><br />
+
+• SQL Databases: <br />
+  PostgreSQL, MySQL, MariaDB, SQLite, etc. <br /><br />
+
+• Microservices & Messaging <br />
+  gRPC, Kafka, AWS SQS & SNS, Google PubSub, Google Cloud Tasks, Bull-MQ etc. <br /><br />
+
+• Cloud Computing Services <br />
+  Google Cloud Platform, Amazon Web Services, Heroku, Digital Ocean, etc. <br /><br />
+
+• DevOps Tools <br />
+  Kubernetes, Docker, CircleCI, GitHub Actions, etc. <br /> <br />
 
 
 <!--
