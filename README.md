@@ -3,7 +3,7 @@
 Experienced  Software  Engineer  with  10  years  of  Expertise  in  Startup  Launches,  Backend Development, Frontend Development, Solutions Architecture, and DevOps.
 <br /><br />
 
-I have 10 years of hands-on experience as a senior software engineer specializing in Javascript, Node.js, Amazon Services, and DevOps engineering in building low-latency, secure, reliable, and large-scale distributed systems.
+I have hands-on experience as a senior software engineer specializing in Javascript, Node.js, Amazon Services, and DevOps engineering in building low-latency, secure, reliable, and large-scale distributed systems.
 <br /><br />
 
 8+ years of total experience in software development.<br />
