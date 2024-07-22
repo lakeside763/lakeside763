@@ -1,18 +1,25 @@
 ### Hi there 👋
 
-I have over 8 years of hands-on experience as a senior software engineer specializing in Javascript, Node.js, Amazon Services, and DevOps engineering in building low-latency, secure, reliable, and large-scale distributed systems.
+Experienced  Software  Engineer  with  10  years  of  Expertise  in  Startup  Launches,  Backend Development, Frontend Development, Solutions Architecture, and DevOps.
+<br /><br />
+
+I have 10 years of hands-on experience as a senior software engineer specializing in Javascript, Node.js, Amazon Services, and DevOps engineering in building low-latency, secure, reliable, and large-scale distributed systems.
 <br /><br />
 
 8+ years of total experience in software development.<br />
 4+ years experience in launching startups from scratch.<br />
-7+ years of experience working with Javascript.<br />
-3+ years experience in the solutions architect role.<br />
-5+ years experience with NodeJs.<br />
-3+ years experience with ReactJs.<br />
-3+ years of experience with AWS Serverless Technology, including AWS Lambda, Eventbridge, API Gateway, etc.<br />
-3+ years of experience working with AWS Cloud Infrastructure, covering EKS, EC2, ECR, ECS, Cloudformation, Route53, SQS, SNS, DynamoDB, RDS, etc.<br />
+8+ years of experience working with Javascript.<br />
+4+ years experience in the solutions architect role.<br />
+7+ years experience with NodeJs.<br />
+5+ years experience with C#, .NET.<br />
+4+ years experience with Golang. <br/>
+6+ years experience with ReactJs, NextJs, Vue<br />
+4+ years experience with EtherJs. <br />
+5+ years experience with Google Cloud Service(GCP). <br />
+4+ years of experience with AWS Serverless Technology, including AWS Lambda, Eventbridge, API Gateway, etc.<br />
+4+ years of experience working with AWS Cloud Infrastructure, covering EKS, EC2, ECR, ECS, Cloudformation, Route53, SQS, SNS, DynamoDB, RDS, etc.<br />
 6+ years of experience working with various relational databases (MySQL, PostgreSQL), including 4   years with NoSQL databases (MongoDB, DynamoDB, Firebase, etc.).<br />
-3+ years of experience in DevOps engineering, covering cloud infrastructure setup, management, application deployment, and CI/CD.<br />
+4+ years of experience in DevOps engineering, covering cloud infrastructure setup, management, application deployment, and CI/CD.<br />
 4+ years experience in leading a software project(4 members) utilizing agile methodology.<br /><br />
 
 My extensive experience in working with enterprise solutions, leading teams, and working with diverse technologies positions me as a valuable asset to drive innovation and contribute at a large scale.
