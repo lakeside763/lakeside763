@@ -11,7 +11,7 @@ I have hands-on experience as a senior software engineer specializing in Javascr
 8+ years of experience working with Javascript/Typescript.<br />
 5+ years experience in the solutions architect role.<br />
 7+ years experience with NodeJs.<br />
-7+ years experience with GraphQL.<br />
+5+ years experience with GraphQL.<br />
 5+ years experience with C#, .NET.<br />
 4+ years experience with Golang. <br/>
 6+ years experience with ReactJs, NextJs<br />
